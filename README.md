@@ -1,4 +1,4 @@
-- 👋 Hi, I’m George
+- 👋 Hi, I’m George Kyrkos 
 - I am a Senior Product Manager in the Fitech and Banking Industry
 - I am interested in creating mockups for lending products, mostly for backoffice optimization , ledger management and Automation. 
 - 👀 I’m interested in Programming, APIs set up, database management. 
