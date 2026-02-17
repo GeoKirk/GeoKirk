@@ -1,10 +1,11 @@
 - 👋 Hi, I’m George Kyrkos 
-- I am a Senior Product Manager in the Fitech and Banking Industry
-- I am interested in creating mockups for lending products, mostly for backoffice optimization , ledger management and Automation. 
-- 👀 I’m interested in Programming, APIs set up, database management. 
-- 🌱 I’m currently learning Python
+- Senior Banking & Fintech Product Manager | Core Banking, SEPA Payments, Lending & Factoring Infrastructure
+  I am a Senior Product Manager operating at the intersection of core banking systems, SEPA payments, and credit ecosystems.
+  I design and scale regulated financial products across lending, factoring, and settlement operations — translating complex risk, compliance, and operational requirements in  structured, scalable platforms.
 
-<!---
-GeoKirk/GeoKirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced in:
+Core banking integrations
+SEPA & cross-border payment flows
+Consumer & SME lending products
+Factoring and settlement orchestration
+Risk-aware product governance in regulated environments
